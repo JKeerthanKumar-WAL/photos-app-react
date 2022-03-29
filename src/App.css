@@ -1,0 +1,31 @@
+.App {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h5 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img {
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+}
+.displayInflex {
+    display: inline-flex;
+}
+.card {
+    height: 450px;
+    width: 300px;
+    margin: 30px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 3px 6px 10px 3px darkolivegreen;
+}
+.card-body {
+    font-size: large;
+    text-align: left;
+}
